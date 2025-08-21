@@ -9,7 +9,7 @@ readme = "README.md"
 repository = "https://github.com/kntt32/carbon-simd"
 homepage = "https://github.com/kntt32/carbon-simd"
 keywords = ["simd", "vector", "avx", "avx2", "fularuen"]
-categories = ["math", "science"]
+categories = ["mathematic"]
 documentation = "https://docs.rs/carbon-simd"
 
 [dependencies]
